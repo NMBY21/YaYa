@@ -1,0 +1,32 @@
+{
+  "page": 1,
+  "items": [
+    {
+      "id": "TX-10001",
+      "sender": "abebe",
+      "receiver": "beti",
+      "amount": 120.5,
+      "currency": "ETB",
+      "cause": "Dinner shared",
+      "createdAt": "2025-08-20T14:12:00Z"
+    },
+    {
+      "id": "TX-10002",
+      "sender": "beti",
+      "receiver": "beti",
+      "amount": 1000,
+      "currency": "ETB",
+      "cause": "Top-up",
+      "createdAt": "2025-08-21T09:00:00Z"
+    },
+    {
+      "id": "TX-10003",
+      "sender": "samuel",
+      "receiver": "beti",
+      "amount": 350,
+      "currency": "ETB",
+      "cause": "Refund",
+      "createdAt": "2025-08-22T10:25:00Z"
+    }
+  ]
+}
